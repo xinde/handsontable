@@ -9,7 +9,7 @@ canonicalUrl: /react-hot-column
 
 [[toc]]
 
-## Overview
+## Overview 
 
 You can configure the column-related settings using the `HotColumn` component's attributes. You can also create custom renderers and editors using React components.
 
