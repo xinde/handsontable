@@ -5,7 +5,7 @@
         <div v-if="show" class="page-top">
           <div class="version-alert">
             <p v-if="isNext">This documentation applies to a next version of Handsontable, and is not released yet.</p>
-            <p v-else-if="!isLatest">This documentation applies to an older version of Handsontable.</p>
+            <p v-else-if="!isLatest">This documentation applies to a non-latest version of Handsontable.</p>
           </div>
         </div>
       </template>
